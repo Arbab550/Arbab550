@@ -1,5 +1,5 @@
 ## 👨‍💻 About Me
-I’m a Software Engineer with a proven track record in delivering scalable, resilient, and innovative solutions. My expertise spans across backend and frontend development, with a focus on optimizing performance and scalability.
+I'm a Web Developer with a strong track record of building scalable, resilient, and user-focused applications. I specialize in both frontend and backend development, with a keen focus on performance optimization, clean architecture, and modern development practices. My goal is to deliver solutions that are not only functional but also efficient and maintainable.
 
 ## 💻 Tech Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
