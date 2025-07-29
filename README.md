@@ -41,7 +41,7 @@ I'm a Web Developer with a strong track record of building scalable, resilient, 
 
 ---
 ## 📫 Find me
-**[LinkedIn][((https://www.linkedin.com/in/arbab-aflaq/))]**
+**[LinkedIn](https://www.linkedin.com/in/arbab-aflaq/)** 
   
 ---
 [![](https://visitcount.itsvg.in/api?id=Arbab550)](https://visitcount.itsvg.in)
