@@ -13,14 +13,10 @@ I'm a Web Developer with a strong track record of building scalable, resilient, 
 ---
 <h3 align="left">Languages and Tools</h3>
 <p align="left"> 
-  <a href="https://www.docker.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://kubernetes.io" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> 
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.mongodb.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
@@ -37,42 +33,15 @@ I'm a Web Developer with a strong track record of building scalable, resilient, 
   <a href="https://www.python.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://reactnative.dev/" target="_blank"> 
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.typescriptlang.org/" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://graphql.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/>
-</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://fastapi.tiangolo.com/" target="_blank">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="graphql" width="40" height="40"/>
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
 
-  
----
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Arbab Aflaq&theme=cobalt" width="500">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arbab Aflaq&show_icons=true&theme=cobalt" width="500">
-</div>
-
----
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arbab550&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
-</div>
-
----
-## 📄 Publication
-- **Face Detection & Recognition from Images & Videos Based on CNN**, Computation 2022  
-  [Read here](https://doi.org/10.3390/computation10090148)
-
 ---
 ## 📫 Find me
-**[LinkedIn]([(https://www.linkedin.com/in/arbab-aflaq/)])**
+**[LinkedIn][((https://www.linkedin.com/in/arbab-aflaq/))]**
   
 ---
 [![](https://visitcount.itsvg.in/api?id=Arbab550)](https://visitcount.itsvg.in)
